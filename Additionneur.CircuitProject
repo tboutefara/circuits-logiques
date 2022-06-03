@@ -3,7 +3,7 @@
 	<lc:Project>
 		<lc:ProjectId>de0f8f8f-c88e-47e9-83e0-e8f6a5122031</lc:ProjectId>
 		<lc:Name>Projet du circuit</lc:Name>
-		<lc:LogicalCircuitId>bfbea5fc-fd16-48f8-a867-f1d876dbe302</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>41ecbc62-ed57-4df9-bb70-d11f4e82f70c</lc:LogicalCircuitId>
 	</lc:Project>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>41ecbc62-ed57-4df9-bb70-d11f4e82f70c</lc:LogicalCircuitId>
@@ -224,8 +224,8 @@
 		<lc:CircuitSymbolId>665e7f48-6f53-4b5b-88c8-8d738b65a569</lc:CircuitSymbolId>
 		<lc:CircuitId>00000000-0000-0000-0000-000000040200</lc:CircuitId>
 		<lc:LogicalCircuitId>bfbea5fc-fd16-48f8-a867-f1d876dbe302</lc:LogicalCircuitId>
-		<lc:X>22</lc:X>
-		<lc:Y>33</lc:Y>
+		<lc:X>28</lc:X>
+		<lc:Y>35</lc:Y>
 	</lc:CircuitSymbol>
 	<lc:CircuitSymbol>
 		<lc:CircuitSymbolId>08644dd6-f1bb-4729-90a7-f59a5c983cea</lc:CircuitSymbolId>
