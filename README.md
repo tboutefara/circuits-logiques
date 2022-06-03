@@ -4,4 +4,4 @@ Ce répo regroupe quelques circuits logiques (combinatoires) que nous présenton
 
 Nous allons nous limiter aux claculs en utilisant les nombres entiers seulement. L'objectif est de démontrer le principe.
 
-Le simulateur utilisé est Qucs que vous pouvez trouver ici [http://qucs.sourceforge.net/](http://qucs.sourceforge.net/ "Qucs")
+Le simulateur utilisé est Qucs que vous pouvez trouver ici [https://www.logiccircuit.org/](https://www.logiccircuit.org/)
